@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Terraform Version",
+            "type": "f5anything",
+            "request": "launch",
+            "command": "terraform --version",
+        }
+    ]
+}
